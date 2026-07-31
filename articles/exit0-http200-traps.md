@@ -1,5 +1,5 @@
 ---
-title: "自動化は成功した。でも結果は間違っていた：exit 0・HTTP 200 に潜む罠"
+title: "【shell】検査は「該当なし」を返し続けた。違反は入っていたのに"
 emoji: "🤫"
 type: "tech"
 topics: ["個人開発", "shell", "git", "自動化", "cloudflarepages"]

@@ -1,5 +1,5 @@
 ---
-title: "AIは失敗を報告しない。違う結果を返すだけ：AIブラウザ操作の4つの罠"
+title: "【AIエージェント】25件取得しました。実際は432件ありました"
 emoji: "🔢"
 type: "tech"
 topics: ["claudecode", "自動化", "browser", "個人開発", "ai"]
