@@ -1,5 +1,5 @@
 ---
-title: "--branch=main では防げなかった：古い dist で本番を35コミット巻き戻した"
+title: "【Cloudflare Pages】デプロイ成功。なのに本番の見た目だけ2週間前だった"
 emoji: "⏪"
 type: "tech"
 topics: ["git", "worktree", "cloudflarepages", "wrangler", "個人開発"]
